@@ -1,11 +1,12 @@
-# Hello there! 👋
-- My name is Victor Novakoski and i am a full stack developer
-<a href="https://www.linkedin.com/in/victor-novakoski-6b0163240/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-</a>
-<a href="https://portifolio-victor-novakoski.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
-</a>
+# Hello there my name is Victor Novakoski and i am a full stack developer
+<br>
+  <a href="https://www.linkedin.com/in/victor-novakoski-6b0163240/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://portifolio-victor-novakoski.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
+  </a>
+</br>
 
 ## Stack(s) 🛠️
 
