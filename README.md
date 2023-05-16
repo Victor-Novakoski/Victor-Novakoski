@@ -1,4 +1,4 @@
-# Hello there my name is Victor Novakoski and i am a full stack developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&lines=Hello+there++;My+name+is+Victor+Novakoski;+and+i+am+a+full+stack+developer" alt="Typing SVG" /></a>
 <br>
   <a href="https://www.linkedin.com/in/victor-novakoski-6b0163240/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
