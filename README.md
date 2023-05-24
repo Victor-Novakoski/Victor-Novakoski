@@ -34,8 +34,8 @@
 
 <a  href="#stats">
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Novakoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Victor-Novakoski&theme=dracula&layout=compact" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Novakoski&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Victor-Novakoski&theme=dracula&layout=compact" />
   </p>
 </a>
 
