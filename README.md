@@ -1,55 +1,20 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&lines=Hello+there++;My+name+is+Victor+Novakoski;+and+i+am+a+full+stack+developer" alt="Typing SVG" /></a>
-<br>
-  <a href="https://www.linkedin.com/in/victor-novakoski-6b0163240/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  </a>
-  <a href="https://portifolio-victor-novakoski.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
-  </a>
-</br>
+<!-- O alt do banner e do botão repete o title de LANGS em scripts/banner.py: mude os dois juntos. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="Victor Novakoski, desenvolvedor full stack. 3+ anos em Go e React, do banco à tela. Disponível para vagas.">
+</picture>
 
-## Stack(s) 🛠️
+<div align="center">
 
-- ❤️ I'm really in love with this: <br />
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br />
+Construo APIs em Go e interfaces em React para um sistema de logística.<br>
+No meu portfólio, cada desafio técnico virou uma luta contra um chefe. **Topa encarar?**
 
-- 🧰 Use this really often: <br />
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://portifolio-victor-novakoski.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/botao-forja-dark.svg"><img src="./assets/botao-forja-light.svg" width="300" alt="Entrar na Forja: abrir o portfólio"></picture></a>
 
-- 📚 Learning this but already have some experience:  <br />
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<br/>
+[LinkedIn](https://www.linkedin.com/in/victor-novakoski-6b0163240/) · [E-mail](mailto:novakoski2021@gmail.com)
 
-- 👀 Looking Forward to leaning this: <br/>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-<br/>
+<sub>Projetos: [Panda Cooking](https://github.com/Victor-Novakoski/panda-cooking-go-api) · Rastreia (em breve)</sub>
 
-<div id="stats" />
+<sub>[Read in English](https://github.com/Victor-Novakoski/Victor-Novakoski/blob/main/README.en.md)</sub>
 
-## 📈&nbsp;My Stats
-
-<a  href="#stats">
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Novakoski&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Victor-Novakoski&theme=dracula&layout=compact" />
-  </p>
-</a>
-
-
-## my status in a year
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Victor-Novakoski/langs?time_range=one_year&loc_metric=changed&theme=dark)
-
-## Want to get in touch? ✉️
-
-<a href="mailto:novakoski2021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-</a>
-
-<a href="https://www.linkedin.com/in/victor-novakoski-6b0163240/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-</a>
- 
+</div>
