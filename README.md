@@ -13,7 +13,7 @@ No meu portfólio, cada desafio técnico virou uma luta contra um chefe. **Topa 
 
 [LinkedIn](https://www.linkedin.com/in/victor-novakoski/) · [E-mail](mailto:novakoski2021@gmail.com)
 
-<sub>Projetos: [Panda Cooking](https://github.com/Victor-Novakoski/panda-cooking-go-api) · Rastreia (em breve)</sub>
+<sub>Projetos: [Panda Cooking](https://github.com/Victor-Novakoski/panda-cooking-go-api) · [Rastreia](https://github.com/Victor-Novakoski/rastreia)</sub>
 
 <sub>[Read in English](https://github.com/Victor-Novakoski/Victor-Novakoski/blob/main/README.en.md)</sub>
 
