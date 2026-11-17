@@ -11,7 +11,7 @@ No meu portfólio, cada desafio técnico virou uma luta contra um chefe. **Topa 
 
 <a href="https://portifolio-victor-novakoski.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/botao-forja-dark.svg"><img src="./assets/botao-forja-light.svg" width="300" alt="Entrar na Forja: abrir o portfólio"></picture></a>
 
-[LinkedIn](https://www.linkedin.com/in/victor-novakoski-6b0163240/) · [E-mail](mailto:novakoski2021@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victor-novakoski/) · [E-mail](mailto:novakoski2021@gmail.com)
 
 <sub>Projetos: [Panda Cooking](https://github.com/Victor-Novakoski/panda-cooking-go-api) · Rastreia (em breve)</sub>
 

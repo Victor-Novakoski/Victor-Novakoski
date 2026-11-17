@@ -11,7 +11,7 @@ In my portfolio, every technical challenge is a boss fight. **Up for it?**
 
 <a href="https://portifolio-victor-novakoski.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/botao-forja-en-dark.svg"><img src="./assets/botao-forja-en-light.svg" width="300" alt="Enter the Forge: open the portfolio"></picture></a>
 
-[LinkedIn](https://www.linkedin.com/in/victor-novakoski-6b0163240/) · [Email](mailto:novakoski2021@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victor-novakoski/) · [Email](mailto:novakoski2021@gmail.com)
 
 <sub>Projects: [Panda Cooking](https://github.com/Victor-Novakoski/panda-cooking-go-api) · Rastreia (coming soon)</sub>
 
