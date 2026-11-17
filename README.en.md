@@ -13,7 +13,7 @@ In my portfolio, every technical challenge is a boss fight. **Up for it?**
 
 [LinkedIn](https://www.linkedin.com/in/victor-novakoski/) · [Email](mailto:novakoski2021@gmail.com)
 
-<sub>Projects: [Panda Cooking](https://github.com/Victor-Novakoski/panda-cooking-go-api) · Rastreia (coming soon)</sub>
+<sub>Projects: [Panda Cooking](https://github.com/Victor-Novakoski/panda-cooking-go-api) · [Rastreia](https://github.com/Victor-Novakoski/rastreia)</sub>
 
 <sub>The portfolio is in Portuguese · [Ler em português](https://github.com/Victor-Novakoski/Victor-Novakoski/blob/main/README.md)</sub>
 
